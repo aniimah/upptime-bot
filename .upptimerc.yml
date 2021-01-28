@@ -4,7 +4,7 @@ repo: upptime-bot # Your GitHub repository name
 
 # Add your sites here
 sites:
-   - name: Bee and Bloom Digital
+  - name: Bee and Bloom Digital
     url: https://beeandbloom.digital/
   - name: Aborfrah Online
     url: http://aborfrahonline.com/
