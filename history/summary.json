@@ -130,19 +130,19 @@
     "url": "https://nafco.gov.gh/",
     "icon": "https://favicons.githubusercontent.com/nafco.gov.gh",
     "slug": "nafco",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 15037,
-    "timeDay": 15037,
-    "timeWeek": 15037,
-    "timeMonth": 15037,
-    "timeYear": 15037,
+    "status": "up",
+    "uptime": "96.58%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
+    "time": 13501,
+    "timeDay": 13501,
+    "timeWeek": 13501,
+    "timeMonth": 13501,
+    "timeYear": 13501,
     "dailyMinutesDown": {
-      "2021-01-29": 0
+      "2021-01-29": 25
     }
   },
   {
