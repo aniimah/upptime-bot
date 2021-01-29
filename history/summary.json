@@ -130,18 +130,20 @@
     "url": "https://nafco.gov.gh/",
     "icon": "https://favicons.githubusercontent.com/nafco.gov.gh",
     "slug": "nafco",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 15037,
     "timeDay": 15037,
     "timeWeek": 15037,
     "timeMonth": 15037,
     "timeYear": 15037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 0
+    }
   },
   {
     "name": "Tiger Eye Foundation",
